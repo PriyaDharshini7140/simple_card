@@ -12,7 +12,23 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.card{
+  width: 35%;
+  padding:2%;
+  margin-bottom:10%;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 5%;
+  overflow: auto;
+  font-size:large;
+  
+}
 
+.img2{
+  float: left;
+  margin-right: 5%;
+  border:solid black;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
